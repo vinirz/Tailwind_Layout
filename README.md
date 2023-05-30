@@ -1,1 +1,4 @@
-<img src="https://i.ibb.co/61WNS9X/tailwind-layout.png" style="border-bottom:3px solid #CCCEDB; padding-bottom: 15px">
+![Banner do Weather](https://i.ibb.co/HdxRvr6/tailwind-layout.png)
+
+<p align="center">Tailwind + React 📖 Concluído </p>
+<p align="center">Estudando a implementação do Tailwind css com React</p>
